@@ -1,6 +1,6 @@
 # Hi, I'm Mohammed Qais 👋
 
-### AI-Powered Web Developer| 🤖 AI Explorer
+### AI-Powered Web Developer | 🤖 AI Explorer
 
 ---
 
