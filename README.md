@@ -36,7 +36,7 @@ Making tech simple, structured, and easy to understand for beginners while build
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10a37f?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285f4?style=for-the-badge&logo=google&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white)
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=black)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=blue)
 ---
 
 ## 📌 Current Focus
