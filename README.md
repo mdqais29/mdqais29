@@ -1,8 +1,6 @@
 # Hi, I'm Mohammed Qais 👋
 
-### AI-Powered Web Developer | 🚀 Simplifying Tech for Beginners | 🤖 AI Explorer
-
-Making tech simple, structured, and easy to understand for beginners while building real-world projects & practical solutions.
+### AI-Powered Web Developer| 🤖 AI Explorer
 
 ---
 
