@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Md Qais 👋
+# Hey, I'm Qais 👋
 
 ### AI Generalist · Web Development · Workflow Automation · Practical AI Solutions
 
