@@ -4,15 +4,9 @@
 
 ### AI Generalist · Web Development · Workflow Automation · Practical AI Solutions
 
-I build websites, High-Converting landing pages, Sales Funnels, automation workflows, and practical AI solutions that turn digital ideas into useful experiences.
+I build websites, high-converting landing pages, Sales Funnels, automation workflows, and practical AI solutions that turn digital ideas into useful experiences.
 
 **Currently building [QDelta Technologies](https://www.qdelta.in/)** — exploring how web technologies, automation, and AI can solve real-world business problems.
-
-<p>
-  <a href="https://www.qdelta.in/"><img src="https://img.shields.io/badge/Portfolio-qdelta.in-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/md-qais-905039224/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:qaismd29@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
 
 </div>
 
@@ -152,7 +146,7 @@ Guru Nanak Institute of Technology, Hyderabad · *2021 – 2025*
 
 ## 🤝 Let's Connect
 
-I'm open to relevant freelance projects, collaborations, and professional opportunities across web development, automation, and practical AI solutions.
+I'm open to relevant freelance projects, collaborations, and professional opportunities across web development, automation, and AI.
 
 <div align="center">
 
@@ -162,6 +156,6 @@ I'm open to relevant freelance projects, collaborations, and professional opport
 
 **Languages:** English · Hindi · Telugu
 
-<sub>Building useful digital experiences, one project at a time.</sub>
+<sub>Building useful digital experiences which helps businesses grow online</sub>
 
 </div>
