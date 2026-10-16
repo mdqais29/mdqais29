@@ -4,7 +4,7 @@
 
 ### AI Generalist · Web Development · Workflow Automation · Practical AI Solutions
 
-I build websites, landing pages, automation workflows, and practical AI solutions that turn digital ideas into useful experiences.
+I build websites, High-Converting landing pages, Sales Funnels, automation workflows, and practical AI solutions that turn digital ideas into useful experiences.
 
 **Currently building [QDelta Technologies](https://www.qdelta.in/)** — exploring how web technologies, automation, and AI can solve real-world business problems.
 
@@ -86,19 +86,6 @@ I build websites, landing pages, automation workflows, and practical AI solution
 ![Sales Funnels](https://img.shields.io/badge/Sales_Funnels-92400E?style=flat-square)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
 ![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=flat-square&logo=googleworkspace&logoColor=white)
-
-<details>
-  <summary><strong>🔎 Tools I'm strengthening and exploring</strong></summary>
-  <br />
-
-  ![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-4285F4?style=flat-square&logo=google&logoColor=white)
-  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-  ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=111111)
-  ![REST APIs](https://img.shields.io/badge/REST_APIs-475569?style=flat-square)
-  ![Vercel](https://img.shields.io/badge/Vercel-111111?style=flat-square&logo=vercel&logoColor=white)
-
-</details>
 
 ---
 
