@@ -4,7 +4,7 @@
 
 ### AI Generalist · Web Development · Workflow Automation · Practical AI Solutions
 
-I build websites, high-converting landing pages, Sales Funnels, automation workflows, and practical AI solutions that turn digital ideas into useful experiences.
+I build websites, high-converting landing pages, Sales Funnels, automation workflows, and AI solutions.
 
 **Currently building [QDelta Technologies](https://www.qdelta.in/)** — exploring how web technologies, automation, and AI can solve real-world business problems.
 
